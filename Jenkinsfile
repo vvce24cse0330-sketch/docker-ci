@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         REGISTRY = "localhost:5000"
-        IMAGE_NAME = "anil-demo-app"
+        IMAGE_NAME = "10pro"
     }
 
     stages {
